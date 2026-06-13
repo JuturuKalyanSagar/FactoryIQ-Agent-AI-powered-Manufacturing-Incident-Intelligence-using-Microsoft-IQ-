@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "INC-001",
+    "title": "Manufacturing failure #1",
+    "severity": "Low",
+    "symptoms": [
+      "cpu spike",
+      "memory pressure",
+      "database latency"
+    ],
+    "occurredAt": "2026-06-01T00:00:00Z"
+  },
+  {
+    "id": "INC-002",
+    "title": "Wafer inspection issue #2",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T01:00:00Z"
+  },
+  {
+    "id": "INC-003",
+    "title": "Equipment alarm #3",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T02:00:00Z"
+  },
+  {
+    "id": "INC-004",
+    "title": "Network outage #4",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T03:00:00Z"
+  },
+  {
+    "id": "INC-005",
+    "title": "Database failure #5",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T04:00:00Z"
+  },
+  {
+    "id": "INC-006",
+    "title": "Cloud service failure #6",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T05:00:00Z"
+  },
+  {
+    "id": "INC-007",
+    "title": "Manufacturing failure #7",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T06:00:00Z"
+  },
+  {
+    "id": "INC-008",
+    "title": "Wafer inspection issue #8",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T07:00:00Z"
+  },
+  {
+    "id": "INC-009",
+    "title": "Equipment alarm #9",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T08:00:00Z"
+  },
+  {
+    "id": "INC-010",
+    "title": "Network outage #10",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T09:00:00Z"
+  },
+  {
+    "id": "INC-011",
+    "title": "Database failure #11",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T10:00:00Z"
+  },
+  {
+    "id": "INC-012",
+    "title": "Cloud service failure #12",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T11:00:00Z"
+  },
+  {
+    "id": "INC-013",
+    "title": "Manufacturing failure #13",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T12:00:00Z"
+  },
+  {
+    "id": "INC-014",
+    "title": "Wafer inspection issue #14",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T13:00:00Z"
+  },
+  {
+    "id": "INC-015",
+    "title": "Equipment alarm #15",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T14:00:00Z"
+  },
+  {
+    "id": "INC-016",
+    "title": "Network outage #16",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T15:00:00Z"
+  },
+  {
+    "id": "INC-017",
+    "title": "Database failure #17",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T16:00:00Z"
+  },
+  {
+    "id": "INC-018",
+    "title": "Cloud service failure #18",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T17:00:00Z"
+  },
+  {
+    "id": "INC-019",
+    "title": "Manufacturing failure #19",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T18:00:00Z"
+  },
+  {
+    "id": "INC-020",
+    "title": "Wafer inspection issue #20",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T19:00:00Z"
+  },
+  {
+    "id": "INC-021",
+    "title": "Equipment alarm #21",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T20:00:00Z"
+  },
+  {
+    "id": "INC-022",
+    "title": "Network outage #22",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T21:00:00Z"
+  },
+  {
+    "id": "INC-023",
+    "title": "Database failure #23",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T22:00:00Z"
+  },
+  {
+    "id": "INC-024",
+    "title": "Cloud service failure #24",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T23:00:00Z"
+  },
+  {
+    "id": "INC-025",
+    "title": "Manufacturing failure #25",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T00:00:00Z"
+  },
+  {
+    "id": "INC-026",
+    "title": "Wafer inspection issue #26",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T01:00:00Z"
+  },
+  {
+    "id": "INC-027",
+    "title": "Equipment alarm #27",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T02:00:00Z"
+  },
+  {
+    "id": "INC-028",
+    "title": "Network outage #28",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T03:00:00Z"
+  },
+  {
+    "id": "INC-029",
+    "title": "Database failure #29",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T04:00:00Z"
+  },
+  {
+    "id": "INC-030",
+    "title": "Cloud service failure #30",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T05:00:00Z"
+  },
+  {
+    "id": "INC-031",
+    "title": "Manufacturing failure #31",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T06:00:00Z"
+  },
+  {
+    "id": "INC-032",
+    "title": "Wafer inspection issue #32",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T07:00:00Z"
+  },
+  {
+    "id": "INC-033",
+    "title": "Equipment alarm #33",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T08:00:00Z"
+  },
+  {
+    "id": "INC-034",
+    "title": "Network outage #34",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T09:00:00Z"
+  },
+  {
+    "id": "INC-035",
+    "title": "Database failure #35",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T10:00:00Z"
+  },
+  {
+    "id": "INC-036",
+    "title": "Cloud service failure #36",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T11:00:00Z"
+  },
+  {
+    "id": "INC-037",
+    "title": "Manufacturing failure #37",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T12:00:00Z"
+  },
+  {
+    "id": "INC-038",
+    "title": "Wafer inspection issue #38",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T13:00:00Z"
+  },
+  {
+    "id": "INC-039",
+    "title": "Equipment alarm #39",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T14:00:00Z"
+  },
+  {
+    "id": "INC-040",
+    "title": "Network outage #40",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T15:00:00Z"
+  },
+  {
+    "id": "INC-041",
+    "title": "Database failure #41",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T16:00:00Z"
+  },
+  {
+    "id": "INC-042",
+    "title": "Cloud service failure #42",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T17:00:00Z"
+  },
+  {
+    "id": "INC-043",
+    "title": "Manufacturing failure #43",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T18:00:00Z"
+  },
+  {
+    "id": "INC-044",
+    "title": "Wafer inspection issue #44",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T19:00:00Z"
+  },
+  {
+    "id": "INC-045",
+    "title": "Equipment alarm #45",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T20:00:00Z"
+  },
+  {
+    "id": "INC-046",
+    "title": "Network outage #46",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T21:00:00Z"
+  },
+  {
+    "id": "INC-047",
+    "title": "Database failure #47",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T22:00:00Z"
+  },
+  {
+    "id": "INC-048",
+    "title": "Cloud service failure #48",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-02T23:00:00Z"
+  },
+  {
+    "id": "INC-049",
+    "title": "Manufacturing failure #49",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T00:00:00Z"
+  },
+  {
+    "id": "INC-050",
+    "title": "Wafer inspection issue #50",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T01:00:00Z"
+  },
+  {
+    "id": "INC-051",
+    "title": "Equipment alarm #51",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T02:00:00Z"
+  },
+  {
+    "id": "INC-052",
+    "title": "Network outage #52",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T03:00:00Z"
+  },
+  {
+    "id": "INC-053",
+    "title": "Database failure #53",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T04:00:00Z"
+  },
+  {
+    "id": "INC-054",
+    "title": "Cloud service failure #54",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T05:00:00Z"
+  },
+  {
+    "id": "INC-055",
+    "title": "Manufacturing failure #55",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T06:00:00Z"
+  },
+  {
+    "id": "INC-056",
+    "title": "Wafer inspection issue #56",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T07:00:00Z"
+  },
+  {
+    "id": "INC-057",
+    "title": "Equipment alarm #57",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T08:00:00Z"
+  },
+  {
+    "id": "INC-058",
+    "title": "Network outage #58",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T09:00:00Z"
+  },
+  {
+    "id": "INC-059",
+    "title": "Database failure #59",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T10:00:00Z"
+  },
+  {
+    "id": "INC-060",
+    "title": "Cloud service failure #60",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T11:00:00Z"
+  },
+  {
+    "id": "INC-061",
+    "title": "Manufacturing failure #61",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T12:00:00Z"
+  },
+  {
+    "id": "INC-062",
+    "title": "Wafer inspection issue #62",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T13:00:00Z"
+  },
+  {
+    "id": "INC-063",
+    "title": "Equipment alarm #63",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T14:00:00Z"
+  },
+  {
+    "id": "INC-064",
+    "title": "Network outage #64",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T15:00:00Z"
+  },
+  {
+    "id": "INC-065",
+    "title": "Database failure #65",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T16:00:00Z"
+  },
+  {
+    "id": "INC-066",
+    "title": "Cloud service failure #66",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T17:00:00Z"
+  },
+  {
+    "id": "INC-067",
+    "title": "Manufacturing failure #67",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T18:00:00Z"
+  },
+  {
+    "id": "INC-068",
+    "title": "Wafer inspection issue #68",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T19:00:00Z"
+  },
+  {
+    "id": "INC-069",
+    "title": "Equipment alarm #69",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T20:00:00Z"
+  },
+  {
+    "id": "INC-070",
+    "title": "Network outage #70",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T21:00:00Z"
+  },
+  {
+    "id": "INC-071",
+    "title": "Database failure #71",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T22:00:00Z"
+  },
+  {
+    "id": "INC-072",
+    "title": "Cloud service failure #72",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-03T23:00:00Z"
+  },
+  {
+    "id": "INC-073",
+    "title": "Manufacturing failure #73",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T00:00:00Z"
+  },
+  {
+    "id": "INC-074",
+    "title": "Wafer inspection issue #74",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T01:00:00Z"
+  },
+  {
+    "id": "INC-075",
+    "title": "Equipment alarm #75",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T02:00:00Z"
+  },
+  {
+    "id": "INC-076",
+    "title": "Network outage #76",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T03:00:00Z"
+  },
+  {
+    "id": "INC-077",
+    "title": "Database failure #77",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T04:00:00Z"
+  },
+  {
+    "id": "INC-078",
+    "title": "Cloud service failure #78",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T05:00:00Z"
+  },
+  {
+    "id": "INC-079",
+    "title": "Manufacturing failure #79",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T06:00:00Z"
+  },
+  {
+    "id": "INC-080",
+    "title": "Wafer inspection issue #80",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T07:00:00Z"
+  },
+  {
+    "id": "INC-081",
+    "title": "Equipment alarm #81",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T08:00:00Z"
+  },
+  {
+    "id": "INC-082",
+    "title": "Network outage #82",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T09:00:00Z"
+  },
+  {
+    "id": "INC-083",
+    "title": "Database failure #83",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T10:00:00Z"
+  },
+  {
+    "id": "INC-084",
+    "title": "Cloud service failure #84",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T11:00:00Z"
+  },
+  {
+    "id": "INC-085",
+    "title": "Manufacturing failure #85",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T12:00:00Z"
+  },
+  {
+    "id": "INC-086",
+    "title": "Wafer inspection issue #86",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T13:00:00Z"
+  },
+  {
+    "id": "INC-087",
+    "title": "Equipment alarm #87",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T14:00:00Z"
+  },
+  {
+    "id": "INC-088",
+    "title": "Network outage #88",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T15:00:00Z"
+  },
+  {
+    "id": "INC-089",
+    "title": "Database failure #89",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T16:00:00Z"
+  },
+  {
+    "id": "INC-090",
+    "title": "Cloud service failure #90",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T17:00:00Z"
+  },
+  {
+    "id": "INC-091",
+    "title": "Manufacturing failure #91",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T18:00:00Z"
+  },
+  {
+    "id": "INC-092",
+    "title": "Wafer inspection issue #92",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T19:00:00Z"
+  },
+  {
+    "id": "INC-093",
+    "title": "Equipment alarm #93",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T20:00:00Z"
+  },
+  {
+    "id": "INC-094",
+    "title": "Network outage #94",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T21:00:00Z"
+  },
+  {
+    "id": "INC-095",
+    "title": "Database failure #95",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T22:00:00Z"
+  },
+  {
+    "id": "INC-096",
+    "title": "Cloud service failure #96",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-04T23:00:00Z"
+  },
+  {
+    "id": "INC-097",
+    "title": "Manufacturing failure #97",
+    "severity": "Low",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-05T00:00:00Z"
+  },
+  {
+    "id": "INC-098",
+    "title": "Wafer inspection issue #98",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-05T01:00:00Z"
+  },
+  {
+    "id": "INC-099",
+    "title": "Equipment alarm #99",
+    "severity": "High",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-05T02:00:00Z"
+  },
+  {
+    "id": "INC-100",
+    "title": "Network outage #100",
+    "severity": "Critical",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-05T03:00:00Z"
+  }
+]

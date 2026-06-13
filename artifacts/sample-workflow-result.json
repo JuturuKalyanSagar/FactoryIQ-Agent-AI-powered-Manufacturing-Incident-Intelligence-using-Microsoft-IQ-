@@ -1,0 +1,33 @@
+{
+  "incident": {
+    "id": "INC-002",
+    "title": "Wafer inspection issue #2",
+    "severity": "Medium",
+    "symptoms": [
+      "alarm",
+      "latency",
+      "operator alert"
+    ],
+    "occurredAt": "2026-06-01T01:00:00Z"
+  },
+  "poweredBy": "Microsoft IQ",
+  "agentContributions": [
+    "Incident Intake Agent",
+    "Intelligence Agent",
+    "Root Cause Agent",
+    "Executive Report Agent"
+  ],
+  "confidence": 0.88,
+  "intelligenceSources": [
+    "Foundry IQ compatible knowledge base",
+    "Factory runbook corpus",
+    "Deployment history"
+  ],
+  "rootCause": "Recent wafer inspection deployment introduced an inefficient image aggregation path, causing CPU saturation, memory pressure, and cascading database latency.",
+  "recommendedActions": [
+    "Rollback deployment CHG-2026-0612",
+    "Scale inspection workers",
+    "Increase DB connection pool headroom",
+    "Run memory profiling before redeploy"
+  ]
+}
