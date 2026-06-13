@@ -1,0 +1,101 @@
+id,title,severity
+INC-001,Manufacturing failure #1,Low
+INC-002,Wafer inspection issue #2,Medium
+INC-003,Equipment alarm #3,High
+INC-004,Network outage #4,Critical
+INC-005,Database failure #5,Low
+INC-006,Cloud service failure #6,Medium
+INC-007,Manufacturing failure #7,High
+INC-008,Wafer inspection issue #8,Critical
+INC-009,Equipment alarm #9,Low
+INC-010,Network outage #10,Medium
+INC-011,Database failure #11,High
+INC-012,Cloud service failure #12,Critical
+INC-013,Manufacturing failure #13,Low
+INC-014,Wafer inspection issue #14,Medium
+INC-015,Equipment alarm #15,High
+INC-016,Network outage #16,Critical
+INC-017,Database failure #17,Low
+INC-018,Cloud service failure #18,Medium
+INC-019,Manufacturing failure #19,High
+INC-020,Wafer inspection issue #20,Critical
+INC-021,Equipment alarm #21,Low
+INC-022,Network outage #22,Medium
+INC-023,Database failure #23,High
+INC-024,Cloud service failure #24,Critical
+INC-025,Manufacturing failure #25,Low
+INC-026,Wafer inspection issue #26,Medium
+INC-027,Equipment alarm #27,High
+INC-028,Network outage #28,Critical
+INC-029,Database failure #29,Low
+INC-030,Cloud service failure #30,Medium
+INC-031,Manufacturing failure #31,High
+INC-032,Wafer inspection issue #32,Critical
+INC-033,Equipment alarm #33,Low
+INC-034,Network outage #34,Medium
+INC-035,Database failure #35,High
+INC-036,Cloud service failure #36,Critical
+INC-037,Manufacturing failure #37,Low
+INC-038,Wafer inspection issue #38,Medium
+INC-039,Equipment alarm #39,High
+INC-040,Network outage #40,Critical
+INC-041,Database failure #41,Low
+INC-042,Cloud service failure #42,Medium
+INC-043,Manufacturing failure #43,High
+INC-044,Wafer inspection issue #44,Critical
+INC-045,Equipment alarm #45,Low
+INC-046,Network outage #46,Medium
+INC-047,Database failure #47,High
+INC-048,Cloud service failure #48,Critical
+INC-049,Manufacturing failure #49,Low
+INC-050,Wafer inspection issue #50,Medium
+INC-051,Equipment alarm #51,High
+INC-052,Network outage #52,Critical
+INC-053,Database failure #53,Low
+INC-054,Cloud service failure #54,Medium
+INC-055,Manufacturing failure #55,High
+INC-056,Wafer inspection issue #56,Critical
+INC-057,Equipment alarm #57,Low
+INC-058,Network outage #58,Medium
+INC-059,Database failure #59,High
+INC-060,Cloud service failure #60,Critical
+INC-061,Manufacturing failure #61,Low
+INC-062,Wafer inspection issue #62,Medium
+INC-063,Equipment alarm #63,High
+INC-064,Network outage #64,Critical
+INC-065,Database failure #65,Low
+INC-066,Cloud service failure #66,Medium
+INC-067,Manufacturing failure #67,High
+INC-068,Wafer inspection issue #68,Critical
+INC-069,Equipment alarm #69,Low
+INC-070,Network outage #70,Medium
+INC-071,Database failure #71,High
+INC-072,Cloud service failure #72,Critical
+INC-073,Manufacturing failure #73,Low
+INC-074,Wafer inspection issue #74,Medium
+INC-075,Equipment alarm #75,High
+INC-076,Network outage #76,Critical
+INC-077,Database failure #77,Low
+INC-078,Cloud service failure #78,Medium
+INC-079,Manufacturing failure #79,High
+INC-080,Wafer inspection issue #80,Critical
+INC-081,Equipment alarm #81,Low
+INC-082,Network outage #82,Medium
+INC-083,Database failure #83,High
+INC-084,Cloud service failure #84,Critical
+INC-085,Manufacturing failure #85,Low
+INC-086,Wafer inspection issue #86,Medium
+INC-087,Equipment alarm #87,High
+INC-088,Network outage #88,Critical
+INC-089,Database failure #89,Low
+INC-090,Cloud service failure #90,Medium
+INC-091,Manufacturing failure #91,High
+INC-092,Wafer inspection issue #92,Critical
+INC-093,Equipment alarm #93,Low
+INC-094,Network outage #94,Medium
+INC-095,Database failure #95,High
+INC-096,Cloud service failure #96,Critical
+INC-097,Manufacturing failure #97,Low
+INC-098,Wafer inspection issue #98,Medium
+INC-099,Equipment alarm #99,High
+INC-100,Network outage #100,Critical
