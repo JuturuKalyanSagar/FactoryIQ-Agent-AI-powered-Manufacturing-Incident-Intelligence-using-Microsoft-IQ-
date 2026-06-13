@@ -1,11 +1,1 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\FactoryIQ.Core\FactoryIQ.Core.csproj" />
-    <PackageReference Include="Microsoft.SemanticKernel" Version="1.54.0" />
-  </ItemGroup>
-</Project>
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net8.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup><ItemGroup><ProjectReference Include="..\FactoryIQ.Core\FactoryIQ.Core.csproj"/><PackageReference Include="Microsoft.SemanticKernel" Version="1.54.0" /></ItemGroup></Project>

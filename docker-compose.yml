@@ -1,19 +1,8 @@
 services:
   api:
-    build:
-      context: .
-      dockerfile: src/FactoryIQ.Api/Dockerfile
-    environment:
-      ASPNETCORE_ENVIRONMENT: Development
-      ASPNETCORE_URLS: http://+:8080
-    ports:
-      - "8080:8080"
+    build: { context: ., dockerfile: src/FactoryIQ.Api/Dockerfile }
+    ports: ["8080:8080"]
   web:
-    build:
-      context: frontend
-    environment:
-      VITE_API_PROXY_TARGET: http://api:8080
-    ports:
-      - "5173:5173"
-    depends_on:
-      - api
+    build: { context: frontend }
+    ports: ["5173:5173"]
+    depends_on: [api]
